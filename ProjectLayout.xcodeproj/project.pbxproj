@@ -13,6 +13,7 @@
 		1B645198264D99CD00B12EFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B645196264D99CD00B12EFE /* Main.storyboard */; };
 		1B64519A264D99D100B12EFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B645199264D99D100B12EFE /* Assets.xcassets */; };
 		1B64519D264D99D100B12EFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B64519B264D99D100B12EFE /* LaunchScreen.storyboard */; };
+		1B6451A5264D9BEE00B12EFE /* ikiyeon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1B6451A4264D9BEE00B12EFE /* ikiyeon.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1B645199264D99D100B12EFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B64519C264D99D100B12EFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B64519E264D99D100B12EFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B6451A4264D9BEE00B12EFE /* ikiyeon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ikiyeon.jpg; path = ../../Photos/ikiyeon.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1B64518F264D99CD00B12EFE /* ProjectLayout */ = {
 			isa = PBXGroup;
 			children = (
+				1B6451A4264D9BEE00B12EFE /* ikiyeon.jpg */,
 				1B645190264D99CD00B12EFE /* AppDelegate.swift */,
 				1B645192264D99CD00B12EFE /* SceneDelegate.swift */,
 				1B645194264D99CD00B12EFE /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				1B64519D264D99D100B12EFE /* LaunchScreen.storyboard in Resources */,
 				1B64519A264D99D100B12EFE /* Assets.xcassets in Resources */,
+				1B6451A5264D9BEE00B12EFE /* ikiyeon.jpg in Resources */,
 				1B645198264D99CD00B12EFE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
